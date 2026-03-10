@@ -1,0 +1,15 @@
+{
+  "name": "vegetable-shop",
+  "version": "1.0.0",
+  "description": "Simple vegetable shop website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "nodemailer": "^6.9.7",
+    "dotenv": "^16.3.1"
+  }
+}
